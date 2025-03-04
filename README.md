@@ -1,5 +1,5 @@
 ![](Celebrate01.png?raw=true)
-# ARE
+# ARE - Avaliação e Reestruturação de Empresas
 Avaliação e Reestruturação de Empresas
 - Valorização de Empresas, Negócios e Ações
 - Aquisições & Fusões de Empresas
