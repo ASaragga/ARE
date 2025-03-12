@@ -2,5 +2,5 @@ remote_theme: pages-themes/leap-day@v0.2.0
 url: https://asaragga.github.io/ARE
 plugins:
 - jekyll-remote-theme 
-title: ARE 🌏
+title: ARE
 description: Valorização, Aquisição e Reorganização de Empresas e Negócios  
